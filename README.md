@@ -6,15 +6,6 @@
 📧 spurthichavan@gmail.com  
 </p>
 
-<h1 align="center">Hey 👋, I'm Spurthi Chavan</h1>
-<h3 align="center">☁️ Cloud & DevOps Engineer | ⚙️ Automation Enthusiast | 🐳 Container Craftsman</h3>
-
-<p align="center">
-📍 Belgaum, Karnataka | 📧 spurthichavan@gmail.com  
-</p>
-
----
-
 ## 🚀 Summary
 
 Cloud and DevOps enthusiast with hands-on experience in AWS cloud services (EC2, S3, VPC, IAM, RDS), Docker containerization, Kubernetes orchestration, and CI/CD automation using Jenkins. Skilled in Linux administration, Git version control, and cloud infrastructure deployment. Passionate about building scalable architectures, automating deployments, and monitoring cloud systems.
