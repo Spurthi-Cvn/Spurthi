@@ -48,13 +48,49 @@ Cloud & DevOps enthusiast with hands-on experience in AWS cloud services, contai
 
 ---
 
-### 📈 Performance Snapshot
+## 📈 Performance Snapshot
 
-☁️ Cloud & AWS        ██████████░░░░  80%
-⚙️ DevOps             █████████░░░░░  75%
-🐳 Docker             █████████░░░░░  75%
-🔁 CI/CD (Jenkins)    ████████░░░░░░  70%
-💻 Programming        ███████░░░░░░░  65%
+<table>
+<tr>
+<td width="20%">☁️ Cloud & AWS</td>
+<td width="65%">
+<img src="https://progress-bar.dev/80/?scale=100&width=400&color=4caf50">
+</td>
+<td width="15%" align="right">80%</td>
+</tr>
+
+<tr>
+<td>⚙️ DevOps</td>
+<td>
+<img src="https://progress-bar.dev/75/?scale=100&width=400&color=2196f3">
+</td>
+<td align="right">75%</td>
+</tr>
+
+<tr>
+<td>🐳 Docker</td>
+<td>
+<img src="https://progress-bar.dev/75/?scale=100&width=400&color=9c27b0">
+</td>
+<td align="right">75%</td>
+</tr>
+
+<tr>
+<td>🔁 CI/CD</td>
+<td>
+<img src="https://progress-bar.dev/70/?scale=100&width=400&color=ff9800">
+</td>
+<td align="right">70%</td>
+</tr>
+
+<tr>
+<td>💻 Programming</td>
+<td>
+<img src="https://progress-bar.dev/65/?scale=100&width=400&color=fbc02d">
+</td>
+<td align="right">65%</td>
+</tr>
+</table>
 
 ---
 
@@ -124,7 +160,14 @@ Cloud & DevOps enthusiast with hands-on experience in AWS cloud services, contai
 * 🎓 Master in Cloud Architecture *(Ongoing)*
 * 💻 Front-End Development Certificate
 * 🧠 Hashgraph Developer Course
-* 🏆 Pratibha Puraskar (90%+ Academic Excellence)
+
+---
+
+### 🏆 Achievements
+
+* 🏅 Pratibha Puraskar — Achieved 90%+ Academic Excellence
+* 🎨 Awarded 1st Prize in a Village-Level Cultural Competition (Rangoli)
+* 🛡️ Cyber Head (Final Year) — Led and successfully executed a cyber event, managing planning, coordination, and delivery
 
 ---
 
