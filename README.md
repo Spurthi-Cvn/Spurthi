@@ -54,7 +54,9 @@ Cloud & DevOps enthusiast with hands-on experience in AWS cloud services, contai
 <tr>
 <td width="20%">☁️ Cloud & AWS</td>
 <td width="65%">
-<img src="https://progress-bar.dev/80/?scale=100&width=400&color=4caf50">
+<div style="background:#ddd; height:8px; border-radius:5px;">
+<div style="width:80%; background:#4caf50; height:8px; border-radius:5px;"></div>
+</div>
 </td>
 <td width="15%" align="right">80%</td>
 </tr>
@@ -62,7 +64,9 @@ Cloud & DevOps enthusiast with hands-on experience in AWS cloud services, contai
 <tr>
 <td>⚙️ DevOps</td>
 <td>
-<img src="https://progress-bar.dev/75/?scale=100&width=400&color=2196f3">
+<div style="background:#ddd; height:8px; border-radius:5px;">
+<div style="width:75%; background:#2196f3; height:8px; border-radius:5px;"></div>
+</div>
 </td>
 <td align="right">75%</td>
 </tr>
@@ -70,7 +74,9 @@ Cloud & DevOps enthusiast with hands-on experience in AWS cloud services, contai
 <tr>
 <td>🐳 Docker</td>
 <td>
-<img src="https://progress-bar.dev/75/?scale=100&width=400&color=9c27b0">
+<div style="background:#ddd; height:8px; border-radius:5px;">
+<div style="width:75%; background:#9c27b0; height:8px; border-radius:5px;"></div>
+</div>
 </td>
 <td align="right">75%</td>
 </tr>
@@ -78,7 +84,9 @@ Cloud & DevOps enthusiast with hands-on experience in AWS cloud services, contai
 <tr>
 <td>🔁 CI/CD</td>
 <td>
-<img src="https://progress-bar.dev/70/?scale=100&width=400&color=ff9800">
+<div style="background:#ddd; height:8px; border-radius:5px;">
+<div style="width:70%; background:#ff9800; height:8px; border-radius:5px;"></div>
+</div>
 </td>
 <td align="right">70%</td>
 </tr>
@@ -86,19 +94,13 @@ Cloud & DevOps enthusiast with hands-on experience in AWS cloud services, contai
 <tr>
 <td>💻 Programming</td>
 <td>
-<img src="https://progress-bar.dev/65/?scale=100&width=400&color=fbc02d">
+<div style="background:#ddd; height:8px; border-radius:5px;">
+<div style="width:65%; background:#fbc02d; height:8px; border-radius:5px;"></div>
+</div>
 </td>
 <td align="right">65%</td>
 </tr>
 </table>
-
----
-
-<p align="center">
-🚀 Consistent contributor focused on Cloud, DevOps, and Automation projects.
-</p>
-
----
 
 ## 🚀 Projects
 
