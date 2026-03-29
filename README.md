@@ -1,14 +1,22 @@
-<h1 align="center">Hey 👋, I'm Spurthi Chavan</h1>
-<h3 align="center">☁️ Cloud & DevOps Engineer | ⚙️ Automation Enthusiast | 🐳 Container Craftsman</h3>
+<h1 align="center">Spurthi Chavan</h1>
 
 <p align="center">
-📍 Belgaum, Karnataka | 📞 +91 6361832096  
-📧 spurthichavan@gmail.com  
+☁️ Cloud & DevOps Engineer • ⚙️ Automation • 🐳 Docker • ☸️ Kubernetes
 </p>
 
-## 🚀 Summary
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Automation+Enthusiast" />
+</p>
 
-Cloud and DevOps enthusiast with hands-on experience in AWS cloud services (EC2, S3, VPC, IAM, RDS), Docker containerization, Kubernetes orchestration, and CI/CD automation using Jenkins. Skilled in Linux administration, Git version control, and cloud infrastructure deployment. Passionate about building scalable architectures, automating deployments, and monitoring cloud systems.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Spurthi-Chavan&color=blue&style=flat" />
+</p>
+
+---
+
+## 💼 Professional Summary
+
+Cloud & DevOps enthusiast with hands-on experience in AWS, Docker, Kubernetes, and CI/CD pipelines. Skilled in designing scalable infrastructure, automating deployments, and managing reliable cloud systems.
 
 ---
 
@@ -16,128 +24,119 @@ Cloud and DevOps enthusiast with hands-on experience in AWS cloud services (EC2,
 
 ### 🔹 Automation Testing Intern (1 Month)
 
-* Gained hands-on experience in automation testing concepts and workflows
-* Worked on basic test case creation and execution
-* Practiced automation tools and scripting fundamentals
-* Explored workflow automation using **n8n** (basics)
-* Understood real-world testing and debugging processes
+* Worked on automation testing fundamentals and real-time workflows
+* Created and executed basic test cases
+* Practiced debugging and test validation
+* Hands-on exposure to workflow automation using **n8n**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Core Skills
 
-### ☁️ Cloud & Infrastructure
-
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge\&logo=amazonaws)
-![EC2](https://img.shields.io/badge/Amazon_EC2-yellow?style=for-the-badge\&logo=amazon-ec2)
-![S3](https://img.shields.io/badge/Amazon_S3-green?style=for-the-badge\&logo=amazon-s3)
-![VPC](https://img.shields.io/badge/Amazon_VPC-blue?style=for-the-badge)
-![IAM](https://img.shields.io/badge/IAM-red?style=for-the-badge)
-![RDS](https://img.shields.io/badge/RDS-purple?style=for-the-badge)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-pink?style=for-the-badge)
-
----
-
-### ⚙️ DevOps Tools
-
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge\&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge\&logo=kubernetes)
-![Jenkins](https://img.shields.io/badge/Jenkins-red?style=for-the-badge\&logo=jenkins)
-![Terraform](https://img.shields.io/badge/Terraform-purple?style=for-the-badge\&logo=terraform)
-![AWS CLI](https://img.shields.io/badge/AWS_CLI-grey?style=for-the-badge)
-![n8n](https://img.shields.io/badge/n8n-orange?style=for-the-badge)
+<table>
+<tr><td><b>☁️ Cloud</b></td><td>AWS (EC2, S3, VPC, IAM, RDS, CloudWatch)</td></tr>
+<tr><td><b>⚙️ DevOps</b></td><td>Docker, Kubernetes, Jenkins, Terraform, AWS CLI, n8n</td></tr>
+<tr><td><b>💻 Programming</b></td><td>Python, Shell Scripting, HTML, CSS</td></tr>
+<tr><td><b>🖥️ Systems</b></td><td>Linux, Windows</td></tr>
+<tr><td><b>🌐 Networking</b></td><td>TCP/IP, DNS, Subnets, NACLs, Security Groups</td></tr>
+<tr><td><b>🔧 Tools</b></td><td>Git, GitHub</td></tr>
+</table>
 
 ---
 
-### 💻 Programming & Scripting
+## 📊 GitHub Overview
 
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge\&logo=python)
-![Shell](https://img.shields.io/badge/Shell-black?style=for-the-badge)
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
-
----
-
-### 🖥️ Operating Systems
-
-![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge\&logo=linux)
-![Windows](https://img.shields.io/badge/Windows-blue?style=for-the-badge\&logo=windows)
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Spurthi-Chavan&show_icons=true&hide_border=true" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Spurthi-Chavan&hide_border=true" />
+</p>
 
 ---
 
-### 🌐 Networking
-
-TCP/IP | DNS | Subnetting | Route Tables | NACLs | Security Groups
-
----
-
-## 📂 Projects
+## 🚀 Projects Portfolio
 
 ### 🔹 AWS VPC Multi-Tier Architecture
 
-* Designed multi-tier architecture with public & private subnets across multiple AZs
-* Configured EC2, IAM roles, Security Groups & NACLs
+💡 Designed a highly available and secure cloud architecture
+
+* Multi-AZ deployment with public & private subnets
+* Configured EC2, IAM, Security Groups, and NACLs
 * Implemented NAT Gateway & Internet Gateway
-* Enabled CloudWatch monitoring
+* Monitoring using CloudWatch
+
+**Tech Stack:** AWS | VPC | EC2 | IAM | CloudWatch
 
 ---
 
 ### 🔹 Static Website Hosting on AWS
 
-* Hosted static website on EC2 using Apache
-* Configured HTTP, HTTPS & SSH security
-* Applied AWS best practices for secure hosting
+💡 Deployed and secured a production-ready static website
+
+* Hosted using Apache on EC2
+* Configured HTTP, HTTPS & SSH
+* Applied security best practices
+
+**Tech Stack:** AWS EC2 | Apache | Linux
 
 ---
 
-### 🔹 Node.js Application with CI/CD using Jenkins
+### 🔹 CI/CD Pipeline for Node.js Application
 
-* Developed and deployed Node.js application with automated CI/CD pipeline
-* Configured Jenkins for build, test, and deployment automation
-* Integrated GitHub repository for continuous integration
-* Containerized application using Docker
+💡 Automated application lifecycle using Jenkins
+
+* Built complete CI/CD pipeline
+* GitHub integration for auto triggers
+* Docker-based deployment
+
+**Tech Stack:** Jenkins | Docker | GitHub
 
 ---
 
-### 🔹 Dockerized Static Website (Cloned Template + AWS Deployment)
+### 🔹 Dockerized Static Website Deployment
 
-* Cloned website template from GitHub and customized it
+💡 Containerized and deployed a web template on AWS
+
+* Cloned and customized GitHub template
 * Created Dockerfile using Apache (httpd)
-* Built Docker image and tested locally
+* Built image and tested locally
 * Deployed container on AWS EC2
-* Hosted website using EC2 public IP
+
+**Tech Stack:** Docker | Apache | AWS EC2 | Linux
 
 ---
 
 ### 🔹 Online Book Recommendation System
 
-* Developed full-stack app using Django & MySQL
-* Implemented recommendation algorithm
-* Added authentication & shopping cart
-* Managed database for users & orders
+💡 Full-stack application with intelligent recommendations
+
+* Developed using Django & MySQL
+* Implemented recommendation logic
+* Built authentication & cart system
+
+**Tech Stack:** Django | MySQL | Python
 
 ---
 
 ## 🎓 Education
 
-| Degree       | Institution                   | Year |
-| ------------ | ----------------------------- | ---- |
-| 🎓 BCA       | KLS Gogte College of Commerce | 2025 |
-| 🎓 PUC (PCM) | Jain PU College               | 2022 |
-| 🎓 Secondary | Gomatesh High School          | 2020 |
+| Degree | Institution          | Year |
+| ------ | -------------------- | ---- |
+| BCA    | KLS Gogte College    | 2025 |
+| PUC    | Jain College         | 2022 |
+| SSC    | Gomatesh High School | 2020 |
 
 ---
 
 ## 🎖️ Certifications & Achievements
 
-* 🎖️ Master in Cloud Architecture — Fortune Cloud Technologies *(Ongoing)*
-* 🎖️ Front-End Development Certificate
-* 🎖️ Hashgraph Developer Course
-* 🏆 Pratibha Puraskar (Scored 90%+ Academic Excellence)
+* Master in Cloud Architecture *(Ongoing)*
+* Front-End Development Certificate
+* Hashgraph Developer Course
+* 🏆 Pratibha Puraskar (90%+ Academic Excellence)
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact
 
 <p align="center">
   <a href="mailto:spurthichavan@gmail.com">
@@ -150,6 +149,6 @@ TCP/IP | DNS | Subnetting | Route Tables | NACLs | Security Groups
 
 ---
 
-⭐ Building scalable systems ☁️ | Automating everything ⚙️ | Learning every day 📚
-
-![Profile Views](https://komarev.com/ghpvc/?username=Spurthi-Chavan\&color=blue)
+<p align="center">
+⭐ Building scalable cloud systems • Automating workflows • Continuous learning 🚀
+</p>
