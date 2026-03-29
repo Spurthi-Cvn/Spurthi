@@ -20,10 +20,10 @@ Cloud & DevOps enthusiast with hands-on experience in AWS cloud services, contai
 
 ### Automation Testing Intern (1 Month)
 
-* Gained practical exposure to automation testing workflows and real-time scenarios
-* Created and executed test cases with focus on debugging and validation
-* Explored workflow automation using **n8n (basics)**
-* Developed understanding of testing lifecycle and quality assurance practices
+* Gained practical exposure to automation testing workflows
+* Created and executed test cases
+* Practiced debugging and validation
+* Worked with workflow automation using **n8n (basics)**
 
 ---
 
@@ -47,10 +47,6 @@ Cloud & DevOps enthusiast with hands-on experience in AWS cloud services, contai
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Spurthi-Chavan&show_icons=true" />
-</p>
-
-<p align="center">
 Consistent contributor focused on Cloud, DevOps, and Automation projects.
 </p>
 
@@ -61,7 +57,7 @@ Consistent contributor focused on Cloud, DevOps, and Automation projects.
 ### AWS VPC Multi-Tier Architecture
 
 * Designed multi-tier architecture across multiple Availability Zones
-* Configured EC2, IAM roles, Security Groups, and NACLs
+* Configured EC2, IAM, Security Groups, and NACLs
 * Implemented NAT Gateway and Internet Gateway
 * Integrated monitoring using CloudWatch
 
@@ -71,7 +67,7 @@ Consistent contributor focused on Cloud, DevOps, and Automation projects.
 
 * Deployed static website using Apache on EC2
 * Configured HTTP, HTTPS, and SSH security
-* Applied best practices for secure hosting
+* Applied best practices
 
 ---
 
@@ -79,35 +75,34 @@ Consistent contributor focused on Cloud, DevOps, and Automation projects.
 
 * Designed CI/CD pipeline using Jenkins
 * Automated build, testing, and deployment
-* Integrated GitHub for continuous integration
-* Containerized application using Docker
+* Integrated GitHub
+* Containerized using Docker
 
 ---
 
 ### Dockerized Static Website Deployment
 
-* Cloned and customized website template
 * Created Dockerfile using Apache (httpd)
-* Built image and tested locally
-* Deployed container on AWS EC2
+* Built and tested container locally
+* Deployed on AWS EC2
 
 ---
 
 ### Online Book Recommendation System
 
-* Developed full-stack application using Django & MySQL
-* Implemented recommendation algorithm
-* Built authentication and shopping cart system
+* Developed Django + MySQL application
+* Implemented recommendation system
+* Added authentication and cart
 
 ---
 
 ## 🎓 Education
 
-| Degree | Institution          | Year |
-| ------ | -------------------- | ---- |
-| BCA    | KLS Gogte College    | 2025 |
-| PUC    | Jain College         | 2022 |
-| SSC    | Gomatesh High School | 2020 |
+| Degree | Institution       | Year |
+| ------ | ----------------- | ---- |
+| BCA    | KLS Gogte College | 2025 |
+| PUC    | Jain College      | 2022 |
+| SSC    | Gomatesh School   | 2020 |
 
 ---
 
