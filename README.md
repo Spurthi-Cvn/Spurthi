@@ -8,101 +8,96 @@
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Automation+Enthusiast" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Spurthi-Chavan&color=blue&style=flat" />
-</p>
-
 ---
 
 ## 💼 Professional Summary
 
-Cloud & DevOps enthusiast with hands-on experience in AWS, Docker, Kubernetes, and CI/CD pipelines. Skilled in designing scalable infrastructure, automating deployments, and managing reliable cloud systems.
+Cloud & DevOps enthusiast with hands-on experience in AWS cloud services, containerization, and CI/CD automation. Skilled in designing scalable infrastructure, automating deployments, and managing reliable cloud environments.
 
 ---
 
 ## 💼 Experience
 
-### 🔹 Automation Testing Intern (1 Month)
+### Automation Testing Intern (1 Month)
 
-* Worked on automation testing fundamentals and real-time workflows
-* Created and executed test cases
-* Practiced debugging and validation
-* Hands-on exposure to workflow automation using **n8n**
+* Gained practical exposure to automation testing workflows and real-time scenarios
+* Created and executed test cases with focus on debugging and validation
+* Explored workflow automation using **n8n (basics)**
+* Developed understanding of testing lifecycle and quality assurance practices
 
 ---
 
-## 🛠️ Core Skills
+## 🛠️ Technical Skills
 
 <table>
-<tr><td><b>☁️ Cloud</b></td><td>AWS (EC2, S3, VPC, IAM, RDS, CloudWatch)</td></tr>
-<tr><td><b>⚙️ DevOps</b></td><td>Docker, Kubernetes, Jenkins, Terraform, AWS CLI, n8n</td></tr>
-<tr><td><b>💻 Programming</b></td><td>Python, Shell Scripting, HTML, CSS</td></tr>
-<tr><td><b>🖥️ Systems</b></td><td>Linux, Windows</td></tr>
-<tr><td><b>🌐 Networking</b></td><td>TCP/IP, DNS, Subnets, NACLs, Security Groups</td></tr>
-<tr><td><b>🔧 Tools</b></td><td>Git, GitHub</td></tr>
+<tr><td><b>Cloud</b></td><td>AWS (EC2, S3, VPC, IAM, RDS, CloudWatch)</td></tr>
+<tr><td><b>DevOps</b></td><td>Docker, Kubernetes, Jenkins, Terraform, AWS CLI, n8n</td></tr>
+<tr><td><b>Programming</b></td><td>Python, Shell Scripting, HTML, CSS</td></tr>
+<tr><td><b>Operating Systems</b></td><td>Linux, Windows</td></tr>
+<tr><td><b>Networking</b></td><td>TCP/IP, DNS, Subnets, NACLs, Security Groups</td></tr>
+<tr><td><b>Tools</b></td><td>Git, GitHub</td></tr>
 </table>
 
 ---
 
 ## 📊 GitHub Overview
 
-* Active contributor on GitHub
-* Focused on DevOps, Cloud & Automation projects
-* Hands-on experience with real-world deployments
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Spurthi-Chavan&color=blue&style=flat&label=Profile+Views" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Spurthi-Chavan&show_icons=true" />
+</p>
+
+<p align="center">
+Consistent contributor focused on Cloud, DevOps, and Automation projects.
+</p>
 
 ---
 
-## 🚀 Projects Portfolio
+## 🚀 Projects
 
-### 🔹 AWS VPC Multi-Tier Architecture
+### AWS VPC Multi-Tier Architecture
 
-💡 Designed a highly available and secure cloud architecture
-
-* Multi-AZ deployment with public & private subnets
-* Configured EC2, IAM, Security Groups, and NACLs
-* Implemented NAT Gateway & Internet Gateway
-* Monitoring using CloudWatch
+* Designed multi-tier architecture across multiple Availability Zones
+* Configured EC2, IAM roles, Security Groups, and NACLs
+* Implemented NAT Gateway and Internet Gateway
+* Integrated monitoring using CloudWatch
 
 ---
 
-### 🔹 Static Website Hosting on AWS
+### Static Website Hosting on AWS
 
-💡 Deployed and secured a static website
-
-* Hosted using Apache on EC2
-* Configured HTTP, HTTPS & SSH
-* Applied security best practices
+* Deployed static website using Apache on EC2
+* Configured HTTP, HTTPS, and SSH security
+* Applied best practices for secure hosting
 
 ---
 
-### 🔹 CI/CD Pipeline for Node.js Application
+### CI/CD Pipeline for Node.js Application
 
-💡 Automated application lifecycle using Jenkins
-
-* Built CI/CD pipeline
-* Integrated GitHub for auto trigger
-* Docker-based deployment
+* Designed CI/CD pipeline using Jenkins
+* Automated build, testing, and deployment
+* Integrated GitHub for continuous integration
+* Containerized application using Docker
 
 ---
 
-### 🔹 Dockerized Static Website (Cloned Template + AWS)
+### Dockerized Static Website Deployment
 
-💡 Containerized and deployed a website on AWS
-
+* Cloned and customized website template
 * Created Dockerfile using Apache (httpd)
 * Built image and tested locally
-* Deployed container on EC2
-* Hosted via public IP
+* Deployed container on AWS EC2
 
 ---
 
-### 🔹 Online Book Recommendation System
+### Online Book Recommendation System
 
-💡 Full-stack web application
-
-* Django + MySQL
-* Recommendation algorithm
-* Authentication & cart system
+* Developed full-stack application using Django & MySQL
+* Implemented recommendation algorithm
+* Built authentication and shopping cart system
 
 ---
 
@@ -121,7 +116,7 @@ Cloud & DevOps enthusiast with hands-on experience in AWS, Docker, Kubernetes, a
 * Master in Cloud Architecture *(Ongoing)*
 * Front-End Development Certificate
 * Hashgraph Developer Course
-* 🏆 Pratibha Puraskar (90%+ Academic Excellence)
+* Pratibha Puraskar (90%+ Academic Excellence)
 
 ---
 
@@ -139,5 +134,5 @@ Cloud & DevOps enthusiast with hands-on experience in AWS, Docker, Kubernetes, a
 ---
 
 <p align="center">
-⭐ Building scalable cloud systems • Automating workflows • Continuous learning 🚀
+Focused on building scalable cloud systems • Automating workflows • Continuous learning 🚀
 </p>
