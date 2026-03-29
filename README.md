@@ -25,8 +25,8 @@ Cloud & DevOps enthusiast with hands-on experience in AWS, Docker, Kubernetes, a
 ### 🔹 Automation Testing Intern (1 Month)
 
 * Worked on automation testing fundamentals and real-time workflows
-* Created and executed basic test cases
-* Practiced debugging and test validation
+* Created and executed test cases
+* Practiced debugging and validation
 * Hands-on exposure to workflow automation using **n8n**
 
 ---
@@ -47,8 +47,8 @@ Cloud & DevOps enthusiast with hands-on experience in AWS, Docker, Kubernetes, a
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Spurthi-Chavan&show_icons=true&hide_border=true" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Spurthi-Chavan&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Spurthi-Chavan&show_icons=true" />
+  <img height="150" src="https://streak-stats.demolab.com?user=Spurthi-Chavan" />
 </p>
 
 ---
@@ -64,19 +64,15 @@ Cloud & DevOps enthusiast with hands-on experience in AWS, Docker, Kubernetes, a
 * Implemented NAT Gateway & Internet Gateway
 * Monitoring using CloudWatch
 
-**Tech Stack:** AWS | VPC | EC2 | IAM | CloudWatch
-
 ---
 
 ### 🔹 Static Website Hosting on AWS
 
-💡 Deployed and secured a production-ready static website
+💡 Deployed and secured a static website
 
 * Hosted using Apache on EC2
 * Configured HTTP, HTTPS & SSH
 * Applied security best practices
-
-**Tech Stack:** AWS EC2 | Apache | Linux
 
 ---
 
@@ -84,36 +80,30 @@ Cloud & DevOps enthusiast with hands-on experience in AWS, Docker, Kubernetes, a
 
 💡 Automated application lifecycle using Jenkins
 
-* Built complete CI/CD pipeline
-* GitHub integration for auto triggers
+* Built CI/CD pipeline
+* Integrated GitHub for auto trigger
 * Docker-based deployment
-
-**Tech Stack:** Jenkins | Docker | GitHub
 
 ---
 
-### 🔹 Dockerized Static Website Deployment
+### 🔹 Dockerized Static Website (Cloned Template + AWS)
 
-💡 Containerized and deployed a web template on AWS
+💡 Containerized and deployed a website on AWS
 
-* Cloned and customized GitHub template
 * Created Dockerfile using Apache (httpd)
 * Built image and tested locally
-* Deployed container on AWS EC2
-
-**Tech Stack:** Docker | Apache | AWS EC2 | Linux
+* Deployed container on EC2
+* Hosted via public IP
 
 ---
 
 ### 🔹 Online Book Recommendation System
 
-💡 Full-stack application with intelligent recommendations
+💡 Full-stack web application
 
-* Developed using Django & MySQL
-* Implemented recommendation logic
-* Built authentication & cart system
-
-**Tech Stack:** Django | MySQL | Python
+* Django + MySQL
+* Recommendation algorithm
+* Authentication & cart system
 
 ---
 
