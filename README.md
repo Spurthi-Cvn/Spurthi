@@ -50,57 +50,14 @@ Cloud & DevOps enthusiast with hands-on experience in AWS cloud services, contai
 
 ## 📈 Performance Snapshot
 
-<table>
-<tr>
-<td width="20%">☁️ Cloud & AWS</td>
-<td width="65%">
-<div style="background:#ddd; height:8px; border-radius:5px;">
-<div style="width:80%; background:#4caf50; height:8px; border-radius:5px;"></div>
-</div>
-</td>
-<td width="15%" align="right">80%</td>
-</tr>
+| Skill          | Progress             | %   |
+| -------------- | -------------------- | --- |
+| ☁️ Cloud & AWS | ████████████████░░░░ | 80% |
+| ⚙️ DevOps      | ███████████████░░░░░ | 75% |
+| 🐳 Docker      | ███████████████░░░░░ | 75% |
+| 🔁 CI/CD       | ██████████████░░░░░░ | 70% |
+| 💻 Programming | █████████████░░░░░░░ | 65% |
 
-<tr>
-<td>⚙️ DevOps</td>
-<td>
-<div style="background:#ddd; height:8px; border-radius:5px;">
-<div style="width:75%; background:#2196f3; height:8px; border-radius:5px;"></div>
-</div>
-</td>
-<td align="right">75%</td>
-</tr>
-
-<tr>
-<td>🐳 Docker</td>
-<td>
-<div style="background:#ddd; height:8px; border-radius:5px;">
-<div style="width:75%; background:#9c27b0; height:8px; border-radius:5px;"></div>
-</div>
-</td>
-<td align="right">75%</td>
-</tr>
-
-<tr>
-<td>🔁 CI/CD</td>
-<td>
-<div style="background:#ddd; height:8px; border-radius:5px;">
-<div style="width:70%; background:#ff9800; height:8px; border-radius:5px;"></div>
-</div>
-</td>
-<td align="right">70%</td>
-</tr>
-
-<tr>
-<td>💻 Programming</td>
-<td>
-<div style="background:#ddd; height:8px; border-radius:5px;">
-<div style="width:65%; background:#fbc02d; height:8px; border-radius:5px;"></div>
-</div>
-</td>
-<td align="right">65%</td>
-</tr>
-</table>
 
 ## 🚀 Projects
 
