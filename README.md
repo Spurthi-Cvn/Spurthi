@@ -46,9 +46,9 @@ Cloud & DevOps enthusiast with hands-on experience in AWS, Docker, Kubernetes, a
 
 ## 📊 GitHub Overview
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Spurthi-Chavan&show_icons=true" />
-</p>
+* Active contributor on GitHub
+* Focused on DevOps, Cloud & Automation projects
+* Hands-on experience with real-world deployments
 
 ---
 
