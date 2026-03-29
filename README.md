@@ -47,8 +47,7 @@ Cloud & DevOps enthusiast with hands-on experience in AWS, Docker, Kubernetes, a
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Spurthi-Chavan&show_icons=true" />
-  <img height="150" src="https://streak-stats.demolab.com?user=Spurthi-Chavan" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Spurthi-Chavan&show_icons=true" />
 </p>
 
 ---
