@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Automation+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Automation" />
 </p>
 
 ---
@@ -18,24 +18,24 @@ Cloud & DevOps enthusiast with hands-on experience in AWS cloud services, contai
 
 ## 💼 Experience
 
-### Automation Testing Intern (1 Month)
+### 🔹 Automation Testing Intern (1 Month)
 
-* Gained practical exposure to automation testing workflows
-* Created and executed test cases
-* Practiced debugging and validation
-* Worked with workflow automation using **n8n (basics)**
+* 🧪 Worked on automation testing workflows and real-time scenarios
+* 🛠️ Created and executed test cases
+* 🔍 Practiced debugging and validation
+* 🔗 Hands-on exposure to workflow automation using **n8n**
 
 ---
 
 ## 🛠️ Technical Skills
 
 <table>
-<tr><td><b>Cloud</b></td><td>AWS (EC2, S3, VPC, IAM, RDS, CloudWatch)</td></tr>
-<tr><td><b>DevOps</b></td><td>Docker, Kubernetes, Jenkins, Terraform, AWS CLI, n8n</td></tr>
-<tr><td><b>Programming</b></td><td>Python, Shell Scripting, HTML, CSS</td></tr>
-<tr><td><b>Operating Systems</b></td><td>Linux, Windows</td></tr>
-<tr><td><b>Networking</b></td><td>TCP/IP, DNS, Subnets, NACLs, Security Groups</td></tr>
-<tr><td><b>Tools</b></td><td>Git, GitHub</td></tr>
+<tr><td><b>☁️ Cloud</b></td><td>AWS (EC2, S3, VPC, IAM, RDS, CloudWatch)</td></tr>
+<tr><td><b>⚙️ DevOps</b></td><td>Docker, Kubernetes, Jenkins, Terraform, AWS CLI, n8n</td></tr>
+<tr><td><b>💻 Programming</b></td><td>Python, Shell Scripting, HTML, CSS</td></tr>
+<tr><td><b>🖥️ Systems</b></td><td>Linux, Windows</td></tr>
+<tr><td><b>🌐 Networking</b></td><td>TCP/IP, DNS, Subnets, NACLs, Security Groups</td></tr>
+<tr><td><b>🔧 Tools</b></td><td>Git, GitHub</td></tr>
 </table>
 
 ---
@@ -46,72 +46,85 @@ Cloud & DevOps enthusiast with hands-on experience in AWS cloud services, contai
   <img src="https://komarev.com/ghpvc/?username=Spurthi-Chavan&color=blue&style=flat&label=Profile+Views" />
 </p>
 
+---
+
+### 📈 Performance Snapshot
+
+☁️ Cloud & AWS        ██████████░░░░  80%
+⚙️ DevOps             █████████░░░░░  75%
+🐳 Docker             █████████░░░░░  75%
+🔁 CI/CD (Jenkins)    ████████░░░░░░  70%
+💻 Programming        ███████░░░░░░░  65%
+
+---
+
 <p align="center">
-Consistent contributor focused on Cloud, DevOps, and Automation projects.
+🚀 Consistent contributor focused on Cloud, DevOps, and Automation projects.
 </p>
 
 ---
 
 ## 🚀 Projects
 
-### AWS VPC Multi-Tier Architecture
+### 🔹 AWS VPC Multi-Tier Architecture
 
-* Designed multi-tier architecture across multiple Availability Zones
-* Configured EC2, IAM, Security Groups, and NACLs
-* Implemented NAT Gateway and Internet Gateway
-* Integrated monitoring using CloudWatch
-
----
-
-### Static Website Hosting on AWS
-
-* Deployed static website using Apache on EC2
-* Configured HTTP, HTTPS, and SSH security
-* Applied best practices
+* ☁️ Designed multi-tier architecture across multiple Availability Zones
+* 🔐 Configured EC2, IAM, Security Groups, and NACLs
+* 🌐 Implemented NAT Gateway and Internet Gateway
+* 📊 Integrated monitoring using CloudWatch
 
 ---
 
-### CI/CD Pipeline for Node.js Application
+### 🔹 Static Website Hosting on AWS
 
-* Designed CI/CD pipeline using Jenkins
-* Automated build, testing, and deployment
-* Integrated GitHub
-* Containerized using Docker
-
----
-
-### Dockerized Static Website Deployment
-
-* Created Dockerfile using Apache (httpd)
-* Built and tested container locally
-* Deployed on AWS EC2
+* 🌍 Deployed static website using Apache on EC2
+* 🔒 Configured HTTP, HTTPS, and SSH security
+* ⚡ Applied best practices for secure hosting
 
 ---
 
-### Online Book Recommendation System
+### 🔹 CI/CD Pipeline for Node.js Application
 
-* Developed Django + MySQL application
-* Implemented recommendation system
-* Added authentication and cart
+* 🔁 Designed CI/CD pipeline using Jenkins
+* ⚙️ Automated build, testing, and deployment
+* 🔗 Integrated GitHub
+* 🐳 Containerized using Docker
+
+---
+
+### 🔹 Dockerized Static Website Deployment
+
+* 📁 Cloned and customized website template
+* 🐳 Created Dockerfile using Apache (httpd)
+* 🧪 Built and tested container locally
+* ☁️ Deployed on AWS EC2
+
+---
+
+### 🔹 Online Book Recommendation System
+
+* 📚 Developed Django + MySQL application
+* 🤖 Implemented recommendation system
+* 🔐 Added authentication and cart
 
 ---
 
 ## 🎓 Education
 
-| Degree | Institution       | Year |
-| ------ | ----------------- | ---- |
-| BCA    | KLS Gogte College | 2025 |
-| PUC    | Jain College      | 2022 |
-| SSC    | Gomatesh School   | 2020 |
+| 🎓 Degree | Institution          | Year |
+| --------- | -------------------- | ---- |
+| BCA       | KLS Gogte College    | 2025 |
+| PUC       | Jain College         | 2022 |
+| SSC       | Gomatesh High School | 2020 |
 
 ---
 
 ## 🎖️ Certifications & Achievements
 
-* Master in Cloud Architecture *(Ongoing)*
-* Front-End Development Certificate
-* Hashgraph Developer Course
-* Pratibha Puraskar (90%+ Academic Excellence)
+* 🎓 Master in Cloud Architecture *(Ongoing)*
+* 💻 Front-End Development Certificate
+* 🧠 Hashgraph Developer Course
+* 🏆 Pratibha Puraskar (90%+ Academic Excellence)
 
 ---
 
@@ -129,5 +142,5 @@ Consistent contributor focused on Cloud, DevOps, and Automation projects.
 ---
 
 <p align="center">
-Focused on building scalable cloud systems • Automating workflows • Continuous learning 🚀
+⭐ Building scalable cloud systems • ⚙️ Automation • 📚 Continuous learning
 </p>
